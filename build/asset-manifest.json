@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/online-shopping-app/static/css/main.df36fa85.css",
+    "main.js": "/online-shopping-app/static/js/main.dc31431e.js",
+    "index.html": "/online-shopping-app/index.html",
+    "main.df36fa85.css.map": "/online-shopping-app/static/css/main.df36fa85.css.map",
+    "main.dc31431e.js.map": "/online-shopping-app/static/js/main.dc31431e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df36fa85.css",
+    "static/js/main.dc31431e.js"
+  ]
+}
